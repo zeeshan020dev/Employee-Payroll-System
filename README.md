@@ -51,3 +51,11 @@ Once the application is running, you will be presented with a main menu.
 ---
 
 *This project was created as a demonstration of fundamental programming concepts in C++.*
+
+## 👤 Author
+
+**[Muhammad Zeeshan Islam](https://github.com/zeeshan020dev)**  
+Co-Founder – Unicodrex | Technical Associate – Skill Sprint
+
+[![GitHub](https://img.shields.io/badge/GitHub-zeeshan020dev-black?logo=github)](https://github.com/zeeshan020dev)
+
